@@ -1,2 +1,2 @@
 # Javscript-pure-Calculator
-A simple Web browser based calculator, using Vanilla Javascript.
+A simple Web browser based calculator, using simple Javascript.
